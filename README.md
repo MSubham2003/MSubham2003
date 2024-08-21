@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/subhamm21060351" target="blank"><img src="https://img.shields.io/twitter/follow/subhamm21060351?logo=twitter&style=for-the-badge" alt="subhamm21060351" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **ReactJs , Java**
+- 💬 Ask me about **Java**
 
-- 📫 How to reach me **mohantysubham853@gmail.com**
+- 📫 How to reach me **mohantysubham853@gmail.com**     **+91 9348228772**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
